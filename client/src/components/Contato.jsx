@@ -13,14 +13,7 @@ function Contato() {
  
   </li>
 
-  <li class="icon-content">
-    <a aria-label="Tel" data-social="Tel" >
-      <div class="filled"></div>
-      <i class="bi bi-telephone-fill"/>
-    </a>
-    <div class="tooltip"> +55 27 9 9853-5094 </div>
- 
-  </li>  
+
 
   <li class="icon-content">
     <a aria-label="End" data-social="End" >
@@ -34,15 +27,6 @@ function Contato() {
 
 
 
-/*
-        <div>
-            <i class="bi bi-telephone-fill"> +55 27 9 9853-5094 </i><br />
-            <i class="bi bi-envelope-at-fill"> maria.15macario@gmail.com</i><br />
-           
-        </div>
-
-
-*/
     )
 }
 
